@@ -1,2 +1,1 @@
 hola , I'm Chat Gpt
-Today's class is about git basics
